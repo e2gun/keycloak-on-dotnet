@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "5MMopX3dRrVcTi6AbLCofcfZAOlVT9WGBnFRmujlCm7xYM0mx+Au7gLNlwPy1QZbxYolKD72N4s9NFJS5o7L+A==",
+  "success": true,
+  "projectFilePath": "/home/ekrem/RiderProjects/keycloak-learn/keycloak-learn/src/Keycloak.Application/Keycloak.Application.csproj",
+  "expectedPackageFiles": [
+    "/home/ekrem/.nuget/packages/dapper/2.0.151/dapper.2.0.151.nupkg.sha512",
+    "/home/ekrem/.nuget/packages/fluentvalidation/11.7.1/fluentvalidation.11.7.1.nupkg.sha512",
+    "/home/ekrem/.nuget/packages/fluentvalidation.dependencyinjectionextensions/11.7.1/fluentvalidation.dependencyinjectionextensions.11.7.1.nupkg.sha512",
+    "/home/ekrem/.nuget/packages/mediatr/12.1.1/mediatr.12.1.1.nupkg.sha512",
+    "/home/ekrem/.nuget/packages/mediatr.contracts/2.0.1/mediatr.contracts.2.0.1.nupkg.sha512",
+    "/home/ekrem/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/6.0.0/microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
+    "/home/ekrem/.nuget/packages/microsoft.extensions.logging.abstractions/7.0.1/microsoft.extensions.logging.abstractions.7.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

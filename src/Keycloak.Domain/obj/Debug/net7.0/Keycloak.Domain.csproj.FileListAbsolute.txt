@@ -1,0 +1,12 @@
+/home/ekrem/RiderProjects/keycloak-learn/keycloak-learn/src/Keycloak.Domain/bin/Debug/net7.0/Keycloak.Domain.deps.json
+/home/ekrem/RiderProjects/keycloak-learn/keycloak-learn/src/Keycloak.Domain/bin/Debug/net7.0/Keycloak.Domain.dll
+/home/ekrem/RiderProjects/keycloak-learn/keycloak-learn/src/Keycloak.Domain/bin/Debug/net7.0/Keycloak.Domain.pdb
+/home/ekrem/RiderProjects/keycloak-learn/keycloak-learn/src/Keycloak.Domain/obj/Debug/net7.0/Keycloak.Domain.csproj.AssemblyReference.cache
+/home/ekrem/RiderProjects/keycloak-learn/keycloak-learn/src/Keycloak.Domain/obj/Debug/net7.0/Keycloak.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/home/ekrem/RiderProjects/keycloak-learn/keycloak-learn/src/Keycloak.Domain/obj/Debug/net7.0/Keycloak.Domain.AssemblyInfoInputs.cache
+/home/ekrem/RiderProjects/keycloak-learn/keycloak-learn/src/Keycloak.Domain/obj/Debug/net7.0/Keycloak.Domain.AssemblyInfo.cs
+/home/ekrem/RiderProjects/keycloak-learn/keycloak-learn/src/Keycloak.Domain/obj/Debug/net7.0/Keycloak.Domain.csproj.CoreCompileInputs.cache
+/home/ekrem/RiderProjects/keycloak-learn/keycloak-learn/src/Keycloak.Domain/obj/Debug/net7.0/Keycloak.Domain.dll
+/home/ekrem/RiderProjects/keycloak-learn/keycloak-learn/src/Keycloak.Domain/obj/Debug/net7.0/refint/Keycloak.Domain.dll
+/home/ekrem/RiderProjects/keycloak-learn/keycloak-learn/src/Keycloak.Domain/obj/Debug/net7.0/Keycloak.Domain.pdb
+/home/ekrem/RiderProjects/keycloak-learn/keycloak-learn/src/Keycloak.Domain/obj/Debug/net7.0/ref/Keycloak.Domain.dll

@@ -1,0 +1,39 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Keycloak.Domain", "src\Keycloak.Domain\Keycloak.Domain.csproj", "{EB3613D5-FC9B-43AF-87A2-017505108B3D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Keycloak.Application", "src\Keycloak.Application\Keycloak.Application.csproj", "{66DFA491-3CA5-4762-85E5-E047A64D2153}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Keycloak.Infrastructure", "src\Keycloak.Infrastructure\Keycloak.Infrastructure.csproj", "{E423F482-D37A-47F7-9B51-8BA1D5FEDE68}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Keycloak.Api", "src\Keycloak.Api\Keycloak.Api.csproj", "{E3E83F69-2A27-4937-9743-CE3259A2BA8B}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{5E87F5A1-B634-4C7E-8E06-C69D0F33FC17}"
+	ProjectSection(SolutionItems) = preProject
+		docker-compose.yml = docker-compose.yml
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EB3613D5-FC9B-43AF-87A2-017505108B3D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB3613D5-FC9B-43AF-87A2-017505108B3D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB3613D5-FC9B-43AF-87A2-017505108B3D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB3613D5-FC9B-43AF-87A2-017505108B3D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{66DFA491-3CA5-4762-85E5-E047A64D2153}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{66DFA491-3CA5-4762-85E5-E047A64D2153}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{66DFA491-3CA5-4762-85E5-E047A64D2153}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{66DFA491-3CA5-4762-85E5-E047A64D2153}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E423F482-D37A-47F7-9B51-8BA1D5FEDE68}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E423F482-D37A-47F7-9B51-8BA1D5FEDE68}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E423F482-D37A-47F7-9B51-8BA1D5FEDE68}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E423F482-D37A-47F7-9B51-8BA1D5FEDE68}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E3E83F69-2A27-4937-9743-CE3259A2BA8B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E3E83F69-2A27-4937-9743-CE3259A2BA8B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E3E83F69-2A27-4937-9743-CE3259A2BA8B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E3E83F69-2A27-4937-9743-CE3259A2BA8B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

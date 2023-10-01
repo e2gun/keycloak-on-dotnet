@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "iHhRW8++DHSxfHfFgiQLVJvX3MvpvvvZMo/Sz1g01T1iNNl6HseN3dMS4jNYPHBhjwNQEPGq4RIyykyw/kOTiw==",
+  "success": true,
+  "projectFilePath": "/home/ekrem/RiderProjects/keycloak-learn/keycloak-learn/src/Keycloak.Domain/Keycloak.Domain.csproj",
+  "expectedPackageFiles": [
+    "/home/ekrem/.nuget/packages/mediatr.contracts/2.0.1/mediatr.contracts.2.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
